@@ -1,19 +1,14 @@
 {% extends 'base.html' %}
 
-{% block title %}Blog{% endblock %}
-
 {% block content %}
 <section id="blog" class="container mt-5">
-    <h2 class="mb-4 text-center">Latest Blog Posts</h2>
-    <div class="list-group">
-        <a href="/blog/001" class="list-group-item list-group-item-action flex-column align-items-start">
-            <div class="d-flex w-100 justify-content-between">
-                <h5 class="mb-1">Example Title</h5>
-                <small>3 days ago</small>
-            </div>
-            <p class="mb-1">This is a summary of the first blog post. Click to read more.</p>
-        </a>
-        <!-- Additional blog posts would be listed similarly -->
+    {% for post in posts %}
+    <div class="post">
+        <div>Posted {{ post.time_ago }}</div>
+        <h3>{{ post.name }}</h3>
+        <div>{{ post.content | safe }}</div>
     </div>
+    {% endfor %}
 </section>
 {% endblock %}
+
