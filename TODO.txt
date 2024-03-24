@@ -1,0 +1,3 @@
+* Fix blog post loading
+* Interactive game on front page
+* Dynamic blog post timestamps

@@ -19,8 +19,8 @@
                 <li class="nav-item">
                     <a class="nav-link theme-toggle" href="#" onclick="toggleTheme(); return false;"><i class="fas fa-moon"></i></a>
                 </li>            
-                <li class="nav-item active">
-                    <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/portfolio">Portfolio</a>
@@ -48,5 +48,19 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script src="/static/js/theme-switcher.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const currentPath = window.location.pathname;
+        const navLinks = document.querySelectorAll('.navbar-nav .nav-item .nav-link');
+
+        navLinks.forEach(link => {
+            if (link.getAttribute('href') === currentPath) {
+                link.classList.add('active');
+            } else {
+                link.classList.remove('active');
+            }
+        });
+    });
+</script>
 </body>
 </html>
