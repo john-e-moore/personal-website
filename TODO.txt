@@ -1,6 +1,8 @@
+* Deploy with gunicorn & nginx on EC2
+* Connect to domain name I purchased
 * Some kind of microbatch data feed on front page
+* Some kind of gpt-4 API-using project
 * Make a blog post
-* Deploy (gunicorn? elastic beanstalk? maybe start w/ guinicorn just to see how it works idk.)
 * Allow US Interest Expense calculator use from website
  * Allow user to input params on page and run the simulation and generate a chart
  * Add view button link on portfolio page ("Try it!" instead of "View")
