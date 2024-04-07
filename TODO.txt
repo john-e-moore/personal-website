@@ -1,5 +1,12 @@
+* Debug blog route locally
 * Run gunicorn as background systemctl process
-* README.md including installation and deployment
+* Configure Flask for logging
+* 10-minute refreshing table on a DraftKings MLB prop bet section
+ * Have a prompts/ folder and store a good prompt that will have GPT extract 
+ and label all API endpoints for each stat
+ * Include company logo
+ * Include vig free line in plain English
+* Finish README.md including installation and deployment
 * Deploy script
 * Some kind of microbatch data feed on front page
 * Some kind of gpt-4 API-using project
@@ -7,3 +14,4 @@
 * Allow US Interest Expense calculator use from website
  * Allow user to input params on page and run the simulation and generate a chart
  * Add view button link on portfolio page ("Try it!" instead of "View")
+* Add testing
