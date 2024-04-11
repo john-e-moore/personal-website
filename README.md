@@ -31,10 +31,10 @@ gunicorn --workers 2 --bind 0.0.0.0:8000 app:app
 ```
 
 ## Production
-##### Server (EC2)
+### Server (EC2)
 A t3.micro Ubuntu instance is fine for a low traffic web application. Default settings should be fine, but ensure inbound traffic is allowed on ports 22 (SSH), 80 (HTTP), and 443 (HTTPS). Create a .pem key pair and SSH into your instance. Clone the repository and install dependencies.
 
-##### Webserver (gunicorn)
+### Webserver (gunicorn)
 Running gunicorn as a systemd service (recommended for production). Create a configuration file with the following:
 ```
 sudo vim /etc/systemd/system/personal-website.service
@@ -58,7 +58,7 @@ WantedBy=multi-user.target
 Ensure the log files are created, and that your app is instantiated in the app's __init__.py. If it is created in a different entrypoint, e.g. wsgi.py, use wsgi:app instead of app:app.
 
 
-##### Reverse proxy (nginx)
+### Reverse proxy (nginx)
 Install nginx.
 ```
 sudo apt-get update
@@ -127,6 +127,6 @@ Check journal:
 Permissions:
 nginx by default is run by user www-data. Add your normal user to the www-data group, and then give access to /home and /home/project. This needs to be done so that both users can access the socket (personal-website.sock)
 
-##### Registrar (Cloudfare)
-##### DNS (Cloudfare)
+### Registrar (Cloudfare)
+### DNS (Cloudfare)
 
