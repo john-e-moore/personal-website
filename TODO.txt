@@ -1,7 +1,22 @@
+<<<<<<< HEAD
 * Deploy with gunicorn & nginx on EC2
 * Connect to domain name I purchased
 * Some kind of microbatch data feed on front page
 * Some kind of gpt-4 API-using project
+=======
+* Change link highlight color to soft red/orange for light mode
+* Finish README.md including installation and deployment
+* Deploy script
+* Templated scripts for server setup
+ * nginx
+ * systemctl gunicorn 
+
+* 10-minute refreshing table on a DraftKings MLB prop bet section
+ * Have a prompts/ folder and store a good prompt that will have GPT extract 
+ and label all API endpoints for each stat
+ * Include DK logo
+ * Include vig free line in plain English
+>>>>>>> 1b2f7fb (blog post bug was due to extra underscores in file name. also added a new post and made a small change to index page (lowercase w))
 * Make a blog post
 * Allow US Interest Expense calculator use from website
  * Allow user to input params on page and run the simulation and generate a chart
