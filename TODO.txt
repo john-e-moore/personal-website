@@ -1,3 +1,4 @@
+* Change link highlight color to soft red/orange for light mode
 * Finish README.md including installation and deployment
 * Deploy script
 * Templated scripts for server setup
