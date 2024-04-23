@@ -25,6 +25,14 @@ body {
     border-color: #92897D;
 }
 
+a { /* Targets all <a> elements */
+    color: #92897D; /* Muted clay */
+}
+
+a:hover {
+    color: #CC644C; /* Darker shade of clay for hover */
+}
+
 /* Dark Mode Styles */
 body.dark-mode {
     background-color: #2B2B2B !important; /* Soft dark gray for body */

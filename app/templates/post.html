@@ -4,6 +4,14 @@
 
 {% block content %}
 <article class="container mt-5">
-    {{ content|safe }}
+    <h1>{{ content.name }}</h1>
+    <hr>
+    <p>
+        <b style="float:left">{{ content.date }}</b>
+        <a style="float:right" href="../../">See all posts</a>
+    </p>
+    <br>
+    <br>
+    {{ content.body | safe }}
 </article>
 {% endblock %}
