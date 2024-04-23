@@ -1,4 +1,4 @@
-* Change link highlight color to soft red/orange for light mode
+* Put blog posts on front page w/ date & links
 * Finish README.md including installation and deployment
 * Deploy script
 * Templated scripts for server setup
@@ -10,7 +10,6 @@
  and label all API endpoints for each stat
  * Include DK logo
  * Include vig free line in plain English
-* Make a blog post
 * Allow US Interest Expense calculator use from website
  * Allow user to input params on page and run the simulation and generate a chart
  * Add view button link on portfolio page ("Try it!" instead of "View")
