@@ -1,4 +1,3 @@
-* Put blog posts on front page w/ date & links
 * Finish README.md including installation and deployment
 * Deploy script
 * Templated scripts for server setup
