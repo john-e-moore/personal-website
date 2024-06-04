@@ -19,6 +19,8 @@ def index():
                 'link': filename, # maps to 'post_extension' in 'post' route
                 'date': date
             })
+            # Put blog posts in order
+            content.sort(key=lambda x: x['name'], reverse=True)
     return render_template('index.html', content=content)
 
 @app.route('/portfolio')
