@@ -20,7 +20,7 @@ def index():
                 'date': date
             })
             # Put blog posts in order
-            content.sort(key=lambda x: x['filename'], reverse=True)
+            content.sort(key=lambda x: x['link'], reverse=True)
     return render_template('index.html', content=content)
 
 @app.route('/portfolio')
