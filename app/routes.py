@@ -17,7 +17,8 @@ def index():
     for filename in os.listdir('app/static/blog_posts'):
         if filename.endswith('.md'):
             post_id, post_name, timestamp = filename[:-3].split('_')
-            post_name = ' '.join([x.title() if (x not in words_not_to_capitalize) or (post_name.index(x) == 0) else x for x in post_name.split('-')])
+            #post_name = ' '.join([x.title() if (x not in words_not_to_capitalize) or (post_name.index(x) == 0) else x for x in post_name.split('-')])
+            post_name = ' '.join(post_name.split('-'))
             date = datetime.strptime(timestamp, '%Y%m%d').strftime('%Y-%m-%d')
             content.append({
                 'name': post_name,
@@ -39,7 +40,8 @@ def post(post_extension):
     print(f"Post path: {post_path}")
     if os.path.exists(post_path):
         post_id, post_name, timestamp = post_extension[:-3].split('_')
-        post_name = ' '.join([x.title() if (x not in words_not_to_capitalize) or (post_name.index(x) == 0) else x for x in post_name.split('-')])
+        #post_name = ' '.join([x.title() if (x not in words_not_to_capitalize) or (post_name.index(x) == 0) else x for x in post_name.split('-')])
+        post_name = ' '.join(post_name.split('-'))
         print(f"Post name: {post_name}")
         with open(post_path, 'r') as file:
             body = markdown.markdown(file.read())
