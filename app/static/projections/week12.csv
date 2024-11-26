@@ -1,0 +1,310 @@
+participant_name,position,team,opp,fpts,etr,diff,salary,pts/$,pown,mean_outcome_Interceptions,mean_outcome_Pass TDs,mean_outcome_Pass Yards,mean_outcome_Rec Yards,mean_outcome_Receptions,mean_outcome_Rush Yards,mean_outcome_TD,prob_bonus_Interceptions,prob_bonus_Pass TDs,prob_bonus_Pass Yards,prob_bonus_Rec Yards,prob_bonus_Receptions,prob_bonus_Rush Yards,prob_bonus_TD,subcategory_names
+A.J. Barner,TE,#N/A,#N/A,1.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.2,,,,,,,0,TD Scorer
+A.J. Brown,WR,#N/A,#N/A,20.8,#N/A,#N/A,#N/A,#N/A,#N/A,,,,102,6.1,,0.5,,,,0.44,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tommy DeVito,QB,NYG,TB,15,14.4,0.6,4000,3.75,6.3,0.8,1,179.5,,,30.5,0.2,0,0,0.07,,,0.03,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Geno Smith,QB,SEA,ARI,21.2,19.5,1.7,5700,3.72,15.4,0.7,1.7,258.5,,,21.9,0.2,0,0,0.3,,,0.01,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Tua Tagovailoa,QB,MIA,NE,21,18.2,2.8,5800,3.62,7.7,0.6,1.8,251.5,,,24.3,0.2,0,0,0.27,,,0.02,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Brandon Allen,QB,SF,@GB,14.1,14.3,-0.2,4000,3.53,4.2,0.7,1.2,201.5,,,12.4,0.1,0,0,0.11,,,0,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Ainias Smith,WR,#N/A,#N/A,0.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Anthony Richardson,QB,IND,DET,19.7,19.9,-0.2,5600,3.52,16.8,0.8,1.1,204.5,,,51.3,0.4,0,0,0.12,,,0.1,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Allen Robinson,WR,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Kareem Hunt,RB,KC,@CAR,19.3,17.9,1.4,5700,3.39,33.5,,,,15.5,1.9,96,0.9,,,,0,0,0.38,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Luke Schoonmaker,TE,DAL,@WAS,8.3,7.1,1.2,2500,3.32,13,,,,36.7,3.4,,0.2,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Andrew Ogletree,TE,#N/A,#N/A,0.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Anthony Gould,WR,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Drake Maye,QB,NE,@MIA,18.1,17.1,1,5500,3.29,4,0.8,1.2,214.5,,,34.5,0.2,0,0,0.14,,,0.04,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Jayden Daniels,QB,WAS,DAL,22.9,22.1,0.8,7000,3.27,11.1,0.6,1.6,224.5,,,46.1,0.4,0,0,0.17,,,0.07,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Kyler Murray,QB,ARI,@SEA,20.1,18.9,1.2,6200,3.24,7.8,0.6,1.4,220.5,,,37.2,0.3,0,0,0.16,,,0.04,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Caleb Williams,QB,CHI,MIN,16.2,15.7,0.5,5100,3.18,1.7,0.7,1.1,204.5,,,29.5,0.2,0,0,0.12,,,0.03,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Jared Goff,QB,DET,@IND,20.8,18.3,2.5,6600,3.15,3.5,0.5,1.9,252.5,,,24.3,0.1,0,0,0.28,,,0.02,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Baker Mayfield,QB,TB,@NYG,18.8,17.5,1.3,6100,3.08,4.3,0.7,1.7,230.4,,,19.1,0.2,0,0,0.19,,,0.01,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Will Levis,QB,TEN,@HOU,15,14.2,0.8,4900,3.06,1.4,1,1,188.5,,,31.1,0.1,0,0,0.08,,,0.03,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Bo Nix,QB,DEN,@LV,19.2,18.7,0.5,6300,3.05,7.2,0.6,1.4,225.6,,,28.1,0.3,0,0,0.18,,,0.02,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+De'Von Achane,RB,MIA,NE,23.7,20.1,3.6,7500,3.16,28.3,,,,40.1,4.6,81.3,1,,,,0.05,0,0.3,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Blake Corum,RB,#N/A,#N/A,3.1,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,23.3,0.1,,,,,,0.04,0,"Rush Yards O/U, TD Scorer"
+Patrick Mahomes,QB,KC,@CAR,20.7,20.1,0.6,6800,3.04,4.2,0.6,1.9,240.5,,,20.8,0.2,0,0,0.23,,,0.01,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Ameer Abdullah,RB,LV,DEN,13.1,11.1,2,4300,3.05,10,,,,24.2,2.9,48.6,0.4,,,,0.01,0,0.13,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Sam Darnold,QB,MIN,@CHI,17.6,16.5,1.1,5900,2.98,0.8,0.8,1.5,224.4,,,19.8,0.2,0,0,0.17,,,0.01,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Brian Robinson Jr.,RB,WAS,DAL,16.9,15.8,1.1,5600,3.02,27.4,,,,10.6,1.2,92.4,0.7,,,,0,0,0.36,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Hunter Henry,TE,NE,@MIA,11.9,11.6,0.3,4000,2.97,17.1,,,,53.2,4.6,,0.3,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+C.J. Stroud,QB,HOU,TEN,18.6,18.1,0.5,6500,2.86,2.1,0.6,1.6,240.5,,,16.2,0.1,0,0,0.23,,,0.01,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Bucky Irving,RB,TB,@NYG,15.6,13,2.6,5300,2.94,6.6,,,,20.1,2.4,72.5,0.5,,,,0.01,0,0.25,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Josh Jacobs,RB,GB,SF,19.4,17.4,2,6800,2.85,15.2,,,,22.6,2.8,88.3,0.8,,,,0.01,0,0.34,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Bryce Ford-Wheaton,WR,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+James Conner,RB,ARI,@SEA,18.4,17.8,0.6,6500,2.83,20.6,,,,21.6,2.7,85.8,0.7,,,,0.01,0,0.32,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Jordan Love,QB,GB,SF,18.9,18,0.9,6700,2.82,0.5,0.8,1.8,240.5,,,12.1,0.2,0,0,0.23,,,0,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Joe Mixon,RB,HOU,TEN,22.6,19.9,2.7,8000,2.83,16.8,,,,24.2,2.7,105.8,0.9,,,,0.01,0,0.44,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Travis Kelce,TE,KC,@CAR,16.3,15.8,0.5,5800,2.81,20.7,,,,67.9,6.2,,0.5,,,,0.19,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+C.J. Uzomah,TE,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Bryce Young,QB,CAR,KC,12.8,12.5,0.3,4600,2.78,0.3,0.8,0.9,179.5,,,19.3,0.1,0,0,0.07,,,0.01,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Tony Pollard,RB,TEN,@HOU,16.2,15.2,1,5800,2.79,13.2,,,,23.7,3.2,74.2,0.4,,,,0.01,0,0.26,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Rhamondre Stevenson,RB,NE,@MIA,15.9,14.6,1.3,5900,2.69,9,,,,21.1,2.8,72.2,0.5,,,,0.01,0,0.25,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Christian McCaffrey,RB,SF,@GB,22.9,21.3,1.6,8500,2.69,13.9,,,,38.1,4.3,94.4,0.7,,,,0.04,0,0.37,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Rico Dowdle,RB,DAL,@WAS,14.8,13.7,1.1,5500,2.69,5.1,,,,22.2,2.5,70.4,0.4,,,,0.01,0,0.24,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Jahmyr Gibbs,RB,DET,@IND,19.6,17.3,2.3,7300,2.68,8.8,,,,26.3,2.7,85.3,0.8,,,,0.02,0,0.32,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Rachaad White,RB,TB,@NYG,14.3,12.3,2,5400,2.65,3.6,,,,28.3,3.2,49.7,0.5,,,,0.02,0,0.13,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Charlie Kolar,TE,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Chigoziem Okonkwo,TE,#N/A,#N/A,5.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,25.4,2.4,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jakobi Meyers,WR,LV,DEN,13.4,13.4,0,5100,2.63,25.5,,,,62.1,5.1,,0.3,,,,0.17,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jonnu Smith,TE,MIA,NE,10.6,10.4,0.2,4100,2.59,13,,,,45.8,3.9,,0.3,,,,0.08,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Brock Bowers,TE,LV,DEN,16.2,15.9,0.3,6300,2.57,14.5,,,,69.9,6.5,,0.4,,,,0.2,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tyrone Tracy Jr.,RB,NYG,TB,15.4,13.4,2,6000,2.57,4.7,,,,19.7,2.3,77.2,0.4,,,,0.01,0,0.27,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Courtland Sutton,WR,DEN,@LV,14.7,14.6,0.1,5800,2.53,23.9,,,,70.2,4.8,,0.4,,,,0.22,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Zach Ertz,TE,WAS,DAL,9.6,9.7,-0.1,3800,2.53,5.8,,,,38.7,3.6,,0.3,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Clyde Edwards-Helaire,RB,#N/A,#N/A,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.2,,,,,,,0,TD Scorer
+Cody Schrader,RB,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Kayshon Boutte,WR,NE,@MIA,8.8,8.3,0.5,3500,2.51,8.7,,,,43.1,2.8,,0.2,,,,0.08,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Colby Parkinson,TE,#N/A,#N/A,0.7,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+David Montgomery,RB,DET,@IND,16.8,15.6,1.2,6700,2.51,6,,,,18.1,1.9,73.2,0.8,,,,0.01,0,0.25,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Cooper Kupp,WR,#N/A,#N/A,17.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,75.2,6.6,,0.4,,,,0.25,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Aaron Jones,RB,MIN,@CHI,16,14.3,1.7,6400,2.50,2.3,,,,21.1,2.5,77.2,0.5,,,,0.01,0,0.27,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Javonte Williams,RB,DEN,@LV,12.9,11.7,1.2,5200,2.48,2.3,,,,23.2,2.7,51.7,0.4,,,,0.01,0,0.14,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Jaxon Smith-Njigba,WR,SEA,ARI,15.6,15.5,0.1,6300,2.48,19.1,,,,69.2,5.7,,0.4,,,,0.21,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Calvin Ridley,WR,TEN,@HOU,14.1,13.7,0.4,5700,2.47,21.6,,,,72.2,4.6,,0.3,,,,0.23,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+D.J. Moore,WR,#N/A,#N/A,12.9,#N/A,#N/A,#N/A,#N/A,#N/A,,,,59.1,4.9,,0.3,,,,0.16,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Amon-Ra St. Brown,WR,DET,@IND,20.5,19.1,1.4,8300,2.47,17.5,,,,85.2,7,,0.7,,,,0.32,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+T.J. Hockenson,TE,MIN,@CHI,10.3,10.3,0,4200,2.45,6.6,,,,47.8,4,,0.2,,,,0.08,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Dallas Goedert,TE,#N/A,#N/A,13.1,#N/A,#N/A,#N/A,#N/A,#N/A,,,,57.8,4.9,,0.3,,,,0.13,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Nico Collins,WR,HOU,TEN,18.6,17.6,1,7600,2.45,14.5,,,,89.2,5.8,,0.5,,,,0.35,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Trey McBride,TE,ARI,@SEA,13.7,13.7,0,5600,2.45,8.9,,,,61.9,5.1,,0.3,,,,0.15,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+DK Metcalf,WR,SEA,ARI,16,15.7,0.3,6600,2.42,13.2,,,,78.2,5,,0.4,,,,0.27,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Sam LaPorta,TE,DET,@IND,10.4,10.6,-0.2,4300,2.42,7.9,,,,43.7,3.6,,0.4,,,,0.07,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Dareke Young,WR,#N/A,#N/A,0.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Devaughn Vele,WR,DEN,@LV,9.4,8.5,0.9,3900,2.41,11.7,,,,44.5,3.3,,0.2,,,,0.09,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+David Martin-Robinson,TE,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Cooper Rush,QB,DAL,@WAS,11.9,12.6,-0.7,5000,2.38,0.3,0.9,1,201.5,,,,0.1,0,0,0.11,,,,0,"Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Chuba Hubbard,RB,CAR,KC,15.8,14.6,1.2,6600,2.39,4,,,,21.1,3,70.1,0.5,,,,0.01,0,0.23,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Davis Allen,TE,#N/A,#N/A,5.8,#N/A,#N/A,#N/A,#N/A,#N/A,,,,24.4,2.2,,0.2,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tucker Kraft,TE,GB,SF,9.2,8,1.2,3900,2.36,1.7,,,,38.7,3.3,,0.3,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+CeeDee Lamb,WR,DAL,@WAS,17.2,17.6,-0.4,7300,2.36,11.7,,,,79.2,6.3,,0.3,,,,0.28,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Dalton Schultz,TE,HOU,TEN,8.2,8.4,-0.2,3500,2.34,3.4,,,,35.6,2.9,,0.3,,,,0.04,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+DeeJay Dallas,RB,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Deebo Samuel,WR,#N/A,#N/A,13.1,#N/A,#N/A,#N/A,#N/A,#N/A,,,,52,4,13.1,0.4,,,,0.12,0,0,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Demarcus Robinson,WR,#N/A,#N/A,7.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,34.7,2.3,,0.2,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Demario Douglas,WR,NE,@MIA,10.5,10,0.5,4500,2.33,7.7,,,,49,4.1,,0.2,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Derius Davis,WR,#N/A,#N/A,0.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Derrick Henry,RB,#N/A,#N/A,19,#N/A,#N/A,#N/A,#N/A,#N/A,,,,10.3,1,100.4,0.9,,,,0,0,0.41,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Deuce Vaughn,RB,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Tyreek Hill,WR,MIA,NE,16.8,16.6,0.2,7200,2.33,13.8,,,,77.2,5.4,,0.5,,,,0.26,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Justin Jefferson,WR,MIN,@CHI,18.8,17.3,1.5,8100,2.32,8.2,,,,90.3,5.7,,0.5,,,,0.35,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Devontez Walker,WR,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Diontae Johnson,WR,#N/A,#N/A,0.9,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Jonathan Taylor,RB,IND,DET,16.4,16.1,0.3,7100,2.31,2,,,,16.6,1.9,87.3,0.5,,,,0.01,0,0.33,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Noah Brown,WR,WAS,DAL,9.7,9.7,0,4200,2.31,6.8,,,,47.1,3.1,,0.3,,,,0.1,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Rome Odunze,WR,CHI,MIN,11,10.6,0.4,4800,2.29,8,,,,57.1,3.7,,0.2,,,,0.15,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Romeo Doubs,WR,GB,SF,10.5,10.7,-0.2,4600,2.28,11.5,,,,50.1,3.4,,0.3,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+D'Andre Swift,RB,CHI,MIN,13.7,12.4,1.3,6100,2.25,0.5,,,,20.7,2.4,65.3,0.3,,,,0.01,0,0.21,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Marvin Harrison Jr.,WR,ARI,@SEA,13.7,11.9,1.8,6100,2.25,5.9,,,,63.1,4.2,,0.4,,,,0.18,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Terry McLaurin,WR,WAS,DAL,15.2,13.5,1.7,6800,2.24,5.4,,,,73.4,4.6,,0.4,,,,0.24,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Josh Downs,WR,IND,DET,13.8,12.5,1.3,6200,2.23,6.2,,,,68.1,4.8,,0.3,,,,0.21,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jayden Reed,WR,GB,SF,13.1,12.5,0.6,5900,2.22,7.8,,,,59.1,4.1,2.1,0.4,,,,0.16,0,0,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Cade Otton,TE,TB,@NYG,12.2,10.3,1.9,5500,2.22,4.1,,,,53,4.8,,0.3,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Theo Johnson,TE,NYG,TB,6.4,6.5,-0.1,2900,2.21,1.4,,,,30.7,2.5,,0.1,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Kendrick Bourne,WR,NE,@MIA,7.9,6,1.9,3600,2.19,0.5,,,,36.8,2.6,,0.2,,,,0.06,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Gardner Minshew,QB,#N/A,#N/A,13.9,#N/A,#N/A,#N/A,#N/A,#N/A,0.8,1.1,208.5,,,10.9,0.1,0,0,0.13,,,0,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Jauan Jennings,WR,SF,@GB,12.2,12.3,-0.1,5600,2.18,7.5,,,,59.1,4.3,,0.3,,,,0.16,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+DeAndre Hopkins,WR,KC,@CAR,11.7,10.9,0.8,5400,2.17,4,,,,54,3.8,,0.3,,,,0.13,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Keenan Allen,WR,CHI,MIN,10.6,10.8,-0.2,4900,2.16,5.6,,,,50.1,4.2,,0.2,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Grant Calcaterra,TE,#N/A,#N/A,1.9,#N/A,#N/A,#N/A,#N/A,#N/A,,,,12.8,,,0.1,,,,0.01,,,0,"Rec Yards O/U, TD Scorer"
+Austin Ekeler,RB,WAS,DAL,11.8,9.4,2.4,5600,2.11,0.5,,,,28.9,2.8,35.6,0.4,,,,0.02,0,0.08,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Gus Edwards,RB,#N/A,#N/A,5.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,40.3,0.2,,,,,,0.1,0,"Rush Yards O/U, TD Scorer"
+Harrison Bryant,TE,#N/A,#N/A,0.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Hassan Haskins,RB,#N/A,#N/A,0.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Tyler Lockett,WR,SEA,ARI,9.9,9.1,0.8,4800,2.06,2.1,,,,49,3.4,,0.2,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Hunter Long,TE,#N/A,#N/A,0.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Michael Pittman Jr.,RB,IND,DET,10.9,11.4,-0.5,5300,2.06,8.4,,,,51.5,3.9,,0.3,,,,0.09,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Mike Evans,WR,TB,@NYG,14.3,13.7,0.6,7000,2.04,5.2,,,,70.4,4,,0.4,,,,0.22,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Isaiah Likely,TE,#N/A,#N/A,7.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,34.3,2.6,,0.2,,,,0.04,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+J.J. Taylor,RB,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+J.K. Dobbins,RB,#N/A,#N/A,16.6,#N/A,#N/A,#N/A,#N/A,#N/A,,,,21.7,2.7,62.2,0.8,,,,0.01,0,0.19,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Malik Nabers,WR,NYG,TB,15.1,14.5,0.6,7400,2.04,5,,,,70,5.7,,0.3,,,,0.22,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Nick Westbrook-Ikhine,WR,TEN,@HOU,8.3,7.5,0.8,4100,2.02,3.5,,,,41.9,2.6,,0.2,,,,0.08,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Wan'Dale Robinson,WR,NYG,TB,10.5,10,0.5,5200,2.02,0.9,,,,45.9,4.5,,0.2,,,,0.09,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jack Stoll,TE,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Jahan Dotson,WR,#N/A,#N/A,5.1,#N/A,#N/A,#N/A,#N/A,#N/A,,,,24.3,1.5,,0.2,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tre Tucker,WR,LV,DEN,8,8,0,4000,2.00,4.4,,,,34.7,2.6,4.2,0.2,,,,0.05,0,0,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Cole Kmet,TE,CHI,MIN,7.2,6.5,0.7,3600,2.00,0.3,,,,33.2,2.8,,0.2,,,,0.04,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jaylen Waddle,WR,MIA,NE,10.5,9.9,0.6,5300,1.98,0.5,,,,50,3.4,,0.3,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jake Tonges,TE,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Austin Hooper,TE,NE,@MIA,5.9,5.9,-1.06581E-14,3000,1.97,0.3,,,,26.9,2.3,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Christian Watson,WR,GB,SF,10.2,10.3,-0.1,5200,1.96,2.6,,,,50,3.2,,0.3,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tank Dell,WR,HOU,TEN,12.5,12.9,-0.4,6400,1.95,3,,,,59.1,4.2,,0.3,,,,0.16,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jalen Hurts,QB,#N/A,#N/A,22.4,#N/A,#N/A,#N/A,#N/A,#N/A,0.5,1.2,220.5,,,46.3,0.6,0,0,0.16,,,0.07,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Michael Wilson,WR,ARI,@SEA,8.5,7.5,1,4400,1.93,0.5,,,,39.8,2.9,,0.2,,,,0.07,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jalen Moreno-Cropper,WR,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Jalen Coker,WR,CAR,KC,7,5.3,1.7,3700,1.89,0.3,,,,34.3,2.4,,0.2,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jalen Reagor,WR,#N/A,#N/A,0.7,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Xavier Legette,WR,CAR,KC,9.3,9.2,0.1,5000,1.86,0.5,,,,44.1,3.4,,0.2,,,,0.09,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Xavier Worthy,WR,KC,@CAR,9.3,8.8,0.5,5000,1.86,0.5,,,,44.5,2.8,,0.3,,,,0.09,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Noah Gray,TE,KC,@CAR,5.7,5.3,0.4,3100,1.84,0.3,,,,27.1,2,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Zach Charbonnet,RB,SEA,ARI,7.9,6.5,1.4,4300,1.84,0.3,,,,17,1.8,29.6,0.2,,,,0.01,0,0.06,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Jameson Williams,WR,DET,@IND,11,11.1,-0.1,6000,1.83,4,,,,55,3.1,,0.3,,,,0.14,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Ja'Tavion Sanders,TE,CAR,KC,6.2,5.7,0.5,3400,1.82,0.3,,,,29.1,2.5,,0.1,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Lil'Jordan Humphrey,WR,DEN,@LV,6.2,5.9,0.3,3400,1.82,0.9,,,,29.3,2.2,,0.2,,,,0.04,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jordan Addison,WR,MIN,@CHI,9.2,8.7,0.5,5100,1.80,0.5,,,,44.9,3,,0.2,,,,0.09,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jalen Tolbert,WR,DAL,@WAS,7.1,6.4,0.7,4100,1.73,0.3,,,,35,2.5,,0.2,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+George Kittle,TE,SF,@GB,10.3,9.6,0.7,6000,1.72,0.5,,,,46.5,3.7,,0.3,,,,0.08,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Mo Alie-Cox,TE,IND,DET,4.2,2.1,2.1,2500,1.68,0,,,,25.8,0.8,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jalen McMillan,WR,TB,@NYG,6.5,6.8,-0.3,4000,1.63,0.3,,,,33.3,2.1,,0.1,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Kenneth Walker III,WR,SEA,ARI,11.2,18,-6.8,6900,1.62,19.5,,,,31.2,3.4,1.9,0.7,,,,0.04,0,0,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Darius Slayton,WR,NYG,TB,7.4,6.2,1.2,4600,1.61,0.3,,,,37,2.5,,0.2,,,,0.06,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tyler Boyd,WR,TEN,@HOU,5.5,5.3,0.2,3500,1.57,0.3,,,,26.4,1.9,,0.2,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Michael Mayer,TE,LV,DEN,4.2,4,0.2,2700,1.56,0,,,,19.6,1.7,,0.1,,,,0.01,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Alec Pierce,WR,IND,DET,7.5,7.3,0.2,4900,1.53,1,,,,38.8,2.1,,0.2,,,,0.07,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tim Patrick,WR,DET,@IND,5.1,5.1,0,3400,1.50,0.3,,,,25.3,1.6,,0.1,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Olamide Zaccheaus,WR,WAS,DAL,4.9,4.4,0.5,3300,1.48,0,,,,23.2,1.5,,0.2,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Cam Akers,RB,MIN,@CHI,6.5,6.6,-0.1,4400,1.48,0.3,,,,10.1,,40.3,0.2,,,,0,,0.1,0,"Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Johnny Wilson,WR,#N/A,#N/A,4.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,33.1,,,0.2,,,,0.05,,,0,"Rec Yards O/U, TD Scorer"
+Troy Franklin,WR,DEN,@LV,5.1,4.9,0.2,3500,1.46,0.1,,,,23.7,1.7,,0.2,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+DJ Turner,WR,LV,DEN,5.4,5,0.4,3800,1.42,0,,,,24.8,1.7,2.1,0.1,,,,0.03,0,0,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Sterling Shepard,WR,TB,@NYG,5.8,6.1,-0.3,4200,1.38,0.3,,,,28,2,,0.1,,,,0.04,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+John Metchie III,WR,HOU,TEN,6,4.9,1.1,4400,1.36,0,,,,29.5,2,,0.2,,,,0.04,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Odell Beckham Jr.,WR,MIA,NE,4.5,4.5,0,3300,1.36,0,,,,23.7,1.5,,0.1,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Johnny Mundt,TE,MIN,@CHI,3.3,3.2,0.1,2500,1.32,0,,,,14.6,1.3,,0.1,,,,0.01,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Kylen Granson,TE,IND,DET,3.3,3,0.3,2500,1.32,0,,,,14,1,,0.2,,,,0.01,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jordan Whittington,WR,#N/A,#N/A,0.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+KaVontae Turpin,WR,DAL,@WAS,4.3,3.7,0.6,3300,1.30,0.7,,,,21.6,1.5,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Greg Dortch,WR,ARI,@SEA,4.5,3.8,0.7,3600,1.25,0,,,,20.5,1.6,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jalen Nailor,WR,MIN,@CHI,4.5,4.4,0.1,3600,1.25,0,,,,23.2,1.4,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Joshua Kelley,RB,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Joshua Palmer,WR,#N/A,#N/A,9.4,#N/A,#N/A,#N/A,#N/A,#N/A,,,,46.9,2.8,,0.3,,,,0.1,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Audric Estime,RB,DEN,@LV,5.7,5,0.7,4700,1.21,0.3,,,,,,40.5,0.2,,,,,,0.1,0,"Rush Yards O/U, TD Scorer"
+Dontayvion Wicks,WR,GB,SF,5.2,5.2,0,4300,1.21,0.3,,,,25.3,1.6,,0.2,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+JuJu Smith-Schuster,WR,KC,@CAR,5.1,3.8,1.3,4300,1.19,0,,,,23.7,1.6,,0.2,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Justice Hill,RB,#N/A,#N/A,1,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.2,,,,,,,0,TD Scorer
+Justin Herbert,QB,#N/A,#N/A,21.1,#N/A,#N/A,#N/A,#N/A,#N/A,0.8,1.7,257.5,,,28.5,0.2,0,0,0.3,,,0.02,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Justin Watson,RB,KC,@CAR,4.1,3.9,0.2,3500,1.17,0,,,,19.7,1.4,,0.1,,,,0.01,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Ricky Pearsall,WR,SF,@GB,5.5,5.2,0.3,4700,1.17,0.3,,,,27.4,1.8,,0.1,,,,0.03,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Jaylen Wright,RB,MIA,NE,4.9,4.3,0.6,4500,1.09,0,,,,,,34.7,0.2,,,,,,0.07,0,"Rush Yards O/U, TD Scorer"
+K.J. Osborn,WR,#N/A,#N/A,0.7,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Malik Washington,WR,MIA,NE,3.2,3.7,-0.5,3100,1.03,0,,,,14.9,0.9,,0.1,,,,0.01,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Adonai Mitchell,WR,IND,DET,4,4.1,-0.1,3900,1.03,0.5,,,,20.4,1.3,,0.1,,,,0.02,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Adam Thielen,WR,CAR,KC,4.7,6.1,-1.4,4700,1.00,0.4,,,,35.5,,,0.2,,,,0.06,,,0,"Rec Yards O/U, TD Scorer"
+Trey Benson,RB,ARI,@SEA,4.3,4.6,-0.3,4500,0.96,0,,,,,,33.3,0.1,,,,,,0.07,0,"Rush Yards O/U, TD Scorer"
+Keaton Mitchell,RB,#N/A,#N/A,0.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Adam Trautman,TE,DEN,@LV,2.4,3.3,-0.9,2700,0.89,0,,,,16.3,,,0.1,,,,0.01,,,0,"Rec Yards O/U, TD Scorer"
+Jonathon Brooks,RB,CAR,KC,4,5.4,-1.4,4800,0.83,0.3,,,,,,29.1,0.2,,,,,,0.06,0,"Rush Yards O/U, TD Scorer"
+Kenneth Gainwell,RB,#N/A,#N/A,3.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,27.3,0.1,,,,,,0.05,0,"Rush Yards O/U, TD Scorer"
+Carson Steele,RB,KC,@CAR,3.3,2.6,0.7,4000,0.83,0,,,,,,23.9,0.1,,,,,,0.04,0,"Rush Yards O/U, TD Scorer"
+Raheem Mostert,RB,MIA,NE,2.7,4.6,-1.9,5000,0.54,0,,,,,,,0.5,,,,,,,0,TD Scorer
+Kimani Vidal,RB,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Dyami Brown,WR,WAS,DAL,1.4,3.3,-1.9,3100,0.45,0,,,,,,,0.2,,,,,,,0,TD Scorer
+Roschon Johnson,RB,CHI,MIN,1.8,5.3,-3.5,4600,0.39,0.3,,,,,,,0.3,,,,,,,0,TD Scorer
+Ja'Lynn Polk,WR,NE,@MIA,1.2,1.5,-0.3,3100,0.39,0,,,,,,,0.2,,,,,,,0,TD Scorer
+Kyren Williams,RB,#N/A,#N/A,19.8,#N/A,#N/A,#N/A,#N/A,#N/A,,,,23.2,2.6,87.8,0.8,,,,0.01,0,0.33,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Ladd McConkey,WR,#N/A,#N/A,8.1,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,5.4,,0.4,,,,,0,,0,"Receptions O/U, TD Scorer"
+Lamar Jackson (BAL),QB,#N/A,#N/A,23.8,#N/A,#N/A,#N/A,#N/A,#N/A,0.6,1.7,236.5,,,53.4,0.3,0,0,0.21,,,0.11,0,"Rush Yards O/U, Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Pharaoh Brown,TE,SEA,ARI,0.9,0.6,0.3,2500,0.36,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Lucas Krull,TE,DEN,@LV,0.8,3.4,-2.6,2500,0.32,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Noah Fant,TE,SEA,ARI,1.1,5.8,-4.7,3700,0.30,0.3,,,,,,,0.2,,,,,,,0,TD Scorer
+Jaleel McLaughlin,RB,DEN,@LV,1.3,3.2,-1.9,4500,0.29,0,,,,,,,0.2,,,,,,,0,TD Scorer
+Elijah Higgins,TE,ARI,@SEA,0.8,3.3,-2.5,2800,0.29,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Devin Singletary,RB,NYG,TB,1.4,4.3,-2.9,4900,0.29,0,,,,,,,0.2,,,,,,,0,TD Scorer
+Brevyn Spann-Ford,TE,DAL,@WAS,0.7,3.3,-2.6,2500,0.28,0.1,,,,,,,0.1,,,,,,,0,TD Scorer
+John Bates,TE,WAS,DAL,0.7,1.1,-0.4,2500,0.28,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Dylan Laube,RB,LV,DEN,1.1,4.2,-3.1,4000,0.28,0,,,,,,,0.2,,,,,,,0,TD Scorer
+Mark Andrews,TE,#N/A,#N/A,9.6,#N/A,#N/A,#N/A,#N/A,#N/A,,,,39.7,3.1,,0.4,,,,0.05,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Brock Wright,TE,DET,@IND,0.9,2.2,-1.3,3300,0.27,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Marvin Mims,WR,#N/A,#N/A,2.7,#N/A,#N/A,#N/A,#N/A,#N/A,,,,18.8,,,0.1,,,,0.02,,,0,"Rec Yards O/U, TD Scorer"
+Matthew Stafford,QB,#N/A,#N/A,16.9,#N/A,#N/A,#N/A,#N/A,#N/A,0.8,1.7,247.5,,,,0.1,0,0,0.26,,,,0,"Interceptions O/U, Pass TDs O/U, Pass Yards O/U, TD Scorer"
+Luke McCaffrey,WR,WAS,DAL,0.8,2.7,-1.9,3200,0.25,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Zay Jones,WR,ARI,@SEA,0.8,1.7,-0.9,3200,0.25,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Cade Stover,TE,HOU,TEN,0.6,2.9,-2.3,2500,0.24,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ezekiel Elliott,RB,DAL,@WAS,1.1,4.5,-3.4,4600,0.24,0,,,,,,,0.2,,,,,,,0,TD Scorer
+Nate Adkins,TE,DEN,@LV,0.6,0.9,-0.3,2600,0.23,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Samaje Perine,RB,KC,@CAR,0.9,4.6,-3.7,4300,0.21,0,,,,,,,0.2,,,,,,,0,TD Scorer
+Emanuel Wilson,RB,GB,SF,0.9,2.7,-1.8,4400,0.20,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Nelson Agholor,WR,#N/A,#N/A,1.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.2,,,,,,,0,TD Scorer
+Ben Sims,TE,GB,SF,0.5,1.2,-0.7,2500,0.20,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Mecole Hardman,WR,KC,@CAR,0.6,3,-2.4,3100,0.19,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Tommy Tremble,TE,CAR,KC,0.5,3.2,-2.7,2600,0.19,0,,,,,,,0.1,,,,,,,0,TD Scorer
+David Moore,WR,CAR,KC,0.6,5.7,-5.1,3200,0.19,0.3,,,,,,,0.1,,,,,,,0,TD Scorer
+Kalif Raymond,WR,DET,@IND,0.6,3.2,-2.6,3400,0.18,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Chris Brooks,WR,GB,SF,0.7,4.6,-3.9,4000,0.18,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Julius Chestnut,RB,TEN,@HOU,0.7,3.1,-2.4,4000,0.18,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ramel Keyton,WR,LV,DEN,0.5,0.6,-0.1,3000,0.17,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ryan Flournoy,WR,DAL,@WAS,0.5,3.8,-3.3,3000,0.17,0.2,,,,,,,0.1,,,,,,,0,TD Scorer
+Rakim Jarrett,WR,TB,@NYG,0.5,3.2,-2.7,3100,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ben Sinnott,TE,WAS,DAL,0.4,0.6,-0.2,2500,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Josh Whyle,TE,TEN,@HOU,0.4,2.6,-2.2,2500,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Peyton Hendershot,TE,KC,@CAR,0.4,1,-0.6,2500,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Shane Zylstra,TE,DET,@IND,0.4,0.3,0.1,2500,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Puka Nacua,WR,#N/A,#N/A,17.9,#N/A,#N/A,#N/A,#N/A,#N/A,,,,82.4,6.3,,0.4,,,,0.3,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Quentin Johnston,WR,#N/A,#N/A,12,#N/A,#N/A,#N/A,#N/A,#N/A,,,,58.1,3.7,,0.3,,,,0.15,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Tip Reiman,TE,ARI,@SEA,0.4,0.3,0.1,2500,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Trey Palmer,WR,TB,@NYG,0.6,0.6,0,3800,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ryan Miller,WR,TB,@NYG,0.5,2.8,-2.3,3200,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Xavier Hutchinson,WR,HOU,TEN,0.5,1.3,-0.8,3200,0.16,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Sean Tucker,RB,TB,@NYG,0.7,2.8,-2.1,4600,0.15,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Rasheen Ali,RB,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Rashod Bateman,WR,#N/A,#N/A,10.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,50.7,3.2,,0.3,,,,0.11,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Sincere McCormick,RB,LV,DEN,0.6,2.1,-1.5,4000,0.15,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Jonathan Mingo,WR,DAL,@WAS,0.5,1.9,-1.4,3700,0.14,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ashton Dulin,WR,IND,DET,0.4,1.5,-1.1,3000,0.13,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Bo Melton,WR,GB,SF,0.4,1.7,-1.3,3000,0.13,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Jake Bobo,WR,SEA,ARI,0.4,0.9,-0.5,3000,0.13,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Zach Pascal,WR,ARI,@SEA,0.4,0.1,0.3,3000,0.13,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Antonio Gibson,RB,NE,@MIA,0.6,2.5,-1.9,4700,0.13,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ronnie Bell,WR,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Ronnie Rivers,RB,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Dameon Pierce,RB,HOU,TEN,0.6,1.3,-0.7,4900,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Emari Demercado,RB,ARI,@SEA,0.5,3.8,-3.3,4100,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Jeremy McNichols,RB,WAS,DAL,0.5,2.1,-1.6,4100,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Jalin Hyatt,WR,NYG,TB,0.4,0.7,-0.3,3300,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Chris Manhertz,TE,NYG,TB,0.3,0.3,0,2500,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Durham Smythe,TE,MIA,NE,0.3,1.5,-1.2,2500,0.12,0,,,,,,,0,,,,,,,0,TD Scorer
+Saquon Barkley,RB,#N/A,#N/A,22.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,20.5,2.6,113.5,0.8,,,,0.01,0,0.49,0,"Receptions O/U, Rec Yards O/U, Rush Yards O/U, TD Scorer"
+Eric Saubert,TE,SF,@GB,0.3,0.5,-0.2,2500,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Feleipe Franks,TE,CAR,KC,0.3,0.1,0.2,2500,0.12,0,,,,,,,0,,,,,,,0,TD Scorer
+Gerald Everett,TE,CHI,MIN,0.3,0.8,-0.5,2500,0.12,0,,,,,,,0,,,,,,,0,TD Scorer
+Julian Hill,TE,MIA,NE,0.3,3,-2.7,2500,0.12,0,,,,,,,0,,,,,,,0,TD Scorer
+Nick Muse,TE,MIN,@CHI,0.3,0.4,-0.1,2500,0.12,0,,,,,,,0,,,,,,,0,TD Scorer
+Steven Sims,WR,#N/A,#N/A,0.2,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Stone Smartt,TE,#N/A,#N/A,0.5,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Nick Vannett,TE,TEN,@HOU,0.3,1.7,-1.4,2500,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Payne Durham,TE,TB,@NYG,0.3,0.3,0,2500,0.12,0,,,,,,,0,,,,,,,0,TD Scorer
+Dare Ogunbowale,RB,HOU,TEN,0.5,2.4,-1.9,4200,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Robert Woods,WR,HOU,TEN,0.4,1.6,-1.2,3400,0.12,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Craig Reynolds,RB,DET,@IND,0.4,0.4,0,4000,0.10,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Ty Chandler,RB,MIN,@CHI,0.4,0.3,0.1,4000,0.10,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Brandon Powell,WR,MIN,@CHI,0.3,1,-0.7,3000,0.10,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Bryce Oliver,WR,TEN,@HOU,0.3,0.2,0.1,3000,0.10,0,,,,,,,0,,,,,,,0,TD Scorer
+Chris Conley,WR,SF,@GB,0.3,0.1,0.2,3000,0.10,0,,,,,,,0,,,,,,,0,TD Scorer
+Cody White,WR,SEA,ARI,0.3,0.3,0,3000,0.10,0,,,,,,,0,,,,,,,0,TD Scorer
+Javon Baker,WR,NE,@MIA,0.3,0.1,0.2,3000,0.10,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Malik Heath,WR,GB,SF,0.3,0.6,-0.3,3000,0.10,0,,,,,,,0,,,,,,,0,TD Scorer
+Travis Vokolek,TE,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+River Cracraft,WR,MIA,NE,0.3,0.2,0.1,3000,0.10,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Trent Sherfield,WR,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Daniel Bellinger,TE,NYG,TB,0.2,0.3,-0.1,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Jaheim Bell,TE,NE,@MIA,0.2,0.1,0.1,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+John FitzPatrick,TE,GB,SF,0.2,0.1,0.1,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Justin Shorter,WR,LV,DEN,0.2,0.3,-0.1,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Ko Kieft,TE,TB,@NYG,0.2,0.2,0,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Marcedes Lewis,TE,CHI,MIN,0.2,0.1,0.1,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Tucker Fisk,TE,#N/A,#N/A,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Princeton Fant,TE,DAL,@WAS,0.2,0.3,-0.1,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Tutu Atwell,WR,#N/A,#N/A,0.6,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Teagan Quitoriano,TE,HOU,TEN,0.2,0.2,0,2500,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Tylan Wallace,WR,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+JaMycal Hasty,RB,NE,@MIA,0.3,2.5,-2.2,4000,0.08,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Kenny McIntosh,RB,SEA,ARI,0.3,0.1,0.2,4000,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Tyler Johnson,WR,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Raheem Blackshear,RB,CAR,KC,0.3,0.5,-0.2,4000,0.08,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Sione Vaki,RB,DET,@IND,0.3,0.1,0.2,4000,0.08,0,,,,,,,0,,,,,,,0,TD Scorer
+Trey Sermon,RB,IND,DET,0.3,1.4,-1.1,4000,0.08,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Tyler Goodson,RB,IND,DET,0.3,1.4,-1.1,4100,0.07,0,,,,,,,0,,,,,,,0,TD Scorer
+DeAndre Carter,WR,CHI,MIN,0.2,0.2,0,3000,0.07,0,,,,,,,0,,,,,,,0,TD Scorer
+Will Dissly,TE,#N/A,#N/A,12.1,#N/A,#N/A,#N/A,#N/A,#N/A,,,,52.3,4.5,,0.3,,,,0.1,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Ihmir Smith-Marsette,WR,NYG,TB,0.2,0.2,0,3000,0.07,0,,,,,,,0,,,,,,,0,TD Scorer
+Will Mallory,TE,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0,,,,,,,0,TD Scorer
+Will Shipley,RB,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Jha'Quan Jackson,WR,TEN,@HOU,0.2,0.3,-0.1,3000,0.07,0,,,,,,,0,,,,,,,0,TD Scorer
+Laviska Shenault Jr.,WR,SEA,ARI,0.2,0.4,-0.2,3000,0.07,0,,,,,,,0,,,,,,,0,TD Scorer
+Xavier Smith,WR,#N/A,#N/A,0.3,#N/A,#N/A,#N/A,#N/A,#N/A,,,,,,,0.1,,,,,,,0,TD Scorer
+Tyler Scott,WR,CHI,MIN,0.2,0.1,0.1,3000,0.07,0,,,,,,,0,,,,,,,0,TD Scorer
+Jordan Mason,RB,SF,@GB,0.3,0.6,-0.3,5000,0.06,0,,,,,,,0.1,,,,,,,0,TD Scorer
+Eric Gray,RB,NYG,TB,0.2,0.5,-0.3,4000,0.05,0,,,,,,,0,,,,,,,0,TD Scorer
+Isaac Guerendo,RB,SF,@GB,0.2,0.7,-0.5,4000,0.05,0,,,,,,,0,,,,,,,0,TD Scorer
+Zay Flowers,WR,#N/A,#N/A,15,#N/A,#N/A,#N/A,#N/A,#N/A,,,,69.2,5,,0.4,,,,0.21,0,,0,"Receptions O/U, Rec Yards O/U, TD Scorer"
+Travis Homer,RB,CHI,MIN,0.2,0.1,0.1,4000,0.05,0,,,,,,,0,,,,,,,0,TD Scorer

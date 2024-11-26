@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Projections</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+</head>
+<body>
+    <h1>Projections</h1>
+    <table id="projectionsTable" class="display">
+        <thead>
+            <tr>
+                {% for key in data[0] %}
+                <th>{{ key }}</th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data[1:] %}
+            <tr>
+                {% for value in row %}
+                <td>{{ value }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <button id="downloadCsv">Download as CSV</button>
+
+    <script>
+        $(document).ready(function() {
+            $('#projectionsTable').DataTable();
+
+            $('#downloadCsv').click(function() {
+                let csv = 'data:text/csv;charset=utf-8,';
+                const rows = document.querySelectorAll('table tr');
+                rows.forEach(row => {
+                    const cols = row.querySelectorAll('td, th');
+                    const rowData = Array.from(cols).map(col => col.innerText).join(',');
+                    csv += rowData + '\r\n';
+                });
+
+                const encodedUri = encodeURI(csv);
+                const link = document.createElement('a');
+                link.setAttribute('href', encodedUri);
+                link.setAttribute('download', 'projections.csv');
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            });
+        });
+    </script>
+</body>
+</html>

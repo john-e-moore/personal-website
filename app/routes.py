@@ -2,6 +2,9 @@ from flask import render_template, send_from_directory
 from werkzeug.utils import safe_join
 from app import app
 import os
+import glob
+import json
+import csv
 from datetime import datetime
 import markdown
 from .utils import compute_time_diff
@@ -57,3 +60,19 @@ def post(post_extension):
         return render_template('post.html', content=content)
     else:
         return "Post not found", 404
+    
+@app.route('/projections')
+def projections():
+    # Find the latest JSON file in the static/projections directory
+    files = glob.glob('app/static/projections/*.csv')
+    latest_file = max(files, key=os.path.getctime) if files else None
+
+    if latest_file:
+        with open(latest_file, 'r') as file:
+            reader = csv.reader(file)
+            data = list(reader)
+        
+        # Pass the data to the template
+        return render_template('projections.html', data=data)
+    else:
+        return "No projections available", 404
